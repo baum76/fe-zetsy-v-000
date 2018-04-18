@@ -27,5 +27,7 @@ h2 {
 }
 
 img {
-	border: 2px;
+	border: 1px;
+	border-width: 2px;
+	border-color: #64746F;
 }

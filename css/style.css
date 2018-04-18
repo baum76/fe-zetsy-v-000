@@ -20,7 +20,7 @@ body {
 /* Write all remaining styles here */
 
 header {
-	margin: 0;
+	margin-bottom: auto;
 }
 
 h1 {

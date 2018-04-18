@@ -34,3 +34,7 @@ h2 {
 	border: 5px #ccc solid;
 	padding: 1px;
 }
+
+footer p {
+	float: left;
+}

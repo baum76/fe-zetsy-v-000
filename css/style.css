@@ -18,6 +18,11 @@ body {
 }
 
 /* Write all remaining styles here */
+
+header {
+	margin: 0;
+}
+
 h1 {
 	color: rgb(152,173,166);
 	font-size: 5em;

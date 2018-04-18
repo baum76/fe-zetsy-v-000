@@ -22,9 +22,6 @@ h1 {
 	color: rgb(152,173,166);
 	font-size: 5em;
 
-h2 {
-	color: rgb(152,173,166);
-}
 
 #featured img {
 	border: 5px rgb(152,173,166) solid;
@@ -36,9 +33,5 @@ h2 {
 }
 
 .small {
-	text-decoration: none;
-	float: left;
-	position: relative;
-	top: 0;
-	right: 0;
+	text
 }

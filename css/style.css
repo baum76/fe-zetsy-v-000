@@ -42,3 +42,7 @@ h2 {
 	font-size: 0.8em;
 	color: #555;
 }
+
+#featured p a {
+	text-decoration: none;
+}

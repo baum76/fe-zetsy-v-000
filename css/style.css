@@ -37,4 +37,5 @@ h2 {
 
 .small {
 	text-decoration: none;
+	float: left;
 }

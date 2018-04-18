@@ -38,4 +38,7 @@ h2 {
 .small {
 	text-decoration: none;
 	float: left;
+	position: relative;
+	top: 0;
+	right: 0;
 }

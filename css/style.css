@@ -19,11 +19,11 @@ body {
 
 /* Write all remaining styles here */
 h1 {
-	color: #64746F;
+	color: rgb(152,173,166);
 	font-size: 5em;
 
 h2 {
-	color: #64746F;
+	color: rgb(152,173,166);
 }
 
 #featured img {
